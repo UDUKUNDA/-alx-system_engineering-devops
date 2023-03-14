@@ -1,4 +1,3 @@
 #!/bin/bash
-ls -la | head
-
+ls -la | head | sort
 
