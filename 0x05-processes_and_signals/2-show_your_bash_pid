@@ -1,0 +1,5 @@
+#!/usr/bin/env bash
+# This diplays the ppid info with the bash kewword
+# shellcheck disable=SC2009
+
+ps -aux | grep bash
