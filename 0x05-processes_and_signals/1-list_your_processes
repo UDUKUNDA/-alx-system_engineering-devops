@@ -1,0 +1,3 @@
+#!/usr/bin/env bash
+# the following cmd will displays a list of currently running processes.
+top
