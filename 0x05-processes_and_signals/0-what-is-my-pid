@@ -1,0 +1,3 @@
+#!/usr/bin/env bash
+# The following srcipt will its own ID
+echo "$$"
