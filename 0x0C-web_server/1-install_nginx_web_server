@@ -2,5 +2,5 @@
 #Install nginx and configure
 apt-get -y update
 apt-get -y install nginx
-echo "Hello World" | tee /var/www/html/index.nginx-debian.html
+echo "Holberton School" | tee /var/www/html/index.nginx-debian.html
 service nginx start
